@@ -1,2 +1,2 @@
-# grandmas-shopping-list
+# COMP2910-TEAM22-JINX
 Team22
